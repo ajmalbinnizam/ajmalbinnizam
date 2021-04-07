@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://instagram.com/ajmalbinnizam"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="30"> </a>
-<a href="https://www.linkedin.com/in/ajmalbinnizam/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-512.png" width="30"> </a>
+<a href="https://www.linkedin.com/in/ajmalbinnizam/"><img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617829445~hmac=73e89348fe0238b0d09e6308f87fcd8c" width="30"> </a>
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ajmalbinnizam.github.io/)](https://ajmalbinnizam.github.io/)
 
 
