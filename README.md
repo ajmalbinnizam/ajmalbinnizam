@@ -9,11 +9,3 @@
 - 🤝 Always open for cooperation
 - ❤️ memer ( ͡° ͜ʖ ͡°)  photography🎥 guitars 🎸
 
-<br>
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ajmalbinnizam&theme=flat&no-frame=true&margin-w=30" />
-</div>
-
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
-![](https://hit.yhype.me/github/profile?user_id=)
