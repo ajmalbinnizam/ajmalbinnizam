@@ -3,8 +3,8 @@
 <p><em>Associate Analyst at <a href="https://www.ey.com">EY GDS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Instagram Follow](https://img.shields.io/instagram/follow/ajmalbinnizam?label=Follow)](https://instagram.com/intent/follow?screen_name=ajmalbinnizam)
-[![Linkedin: ajmalbinnizam](https://img.shields.io/badge/-ajmal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajmalbinnizam/)](https://www.linkedin.com/in/ajmalbinnizam/)
+[![Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ajmalbinnizam)
+[![Linkedin: ajmalbinnizam](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajmalbinnizam/)](https://www.linkedin.com/in/ajmalbinnizam/)
 ![GitHub followers](https://img.shields.io/github/followers/ajmalbinnizam?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ajmalbinnizam.github.io/)](https://ajmalbinnizam.github.io/)
 
