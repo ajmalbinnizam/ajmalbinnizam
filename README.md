@@ -21,7 +21,6 @@ class DataAnalyst
         self.blog = "https://ajmalbinnizam.medium.com/"
         self.knowledge_base = ["Data science", "Machine Learning","web development", "music production"]
         self.knowledge_base.insert(0, "data and analytics")
-
     def say_hi(self):
         print(
             """Hello my friend, thanks for dropping by!
@@ -33,11 +32,8 @@ I write down tips and lecture notes on my personal tech blog, which can be found
                 role=self.role,
                 focus=self.knowledge_base[0],
                 knowledge_base=", ".join(self.knowledge_base[1:]),
-                blog=self.blog,
-            )
-        )
-
-
+                blog=self.blog,))
+                
 me = DataAnalyst()
 me.say_hi()
 
@@ -49,12 +45,9 @@ me.say_hi()
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
 
 
 ## &#x1f4c8; GitHub Stats
