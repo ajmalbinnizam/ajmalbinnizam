@@ -9,10 +9,8 @@
 
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-class DataAnalyst
+class DataAnalyst:
     def __init__(self):
         self.name = "ajmal bin nizam"
         self.role = "Associate analyst in EY GDS"
