@@ -1,4 +1,4 @@
-<h2> I'm Ajmal Bin Nizam! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> I'm Ajmal Bin Nizam! <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>Associate Analyst at <a href="https://www.ey.com">EY GDS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
