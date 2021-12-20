@@ -1,6 +1,6 @@
-<h2> I'm Ajmal Bin Nizam! <img src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="50"></h2>
+<h2>Hi👋, I'm Ajmal Bin Nizam! <img src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>Associate Analyst at <a href="https://www.ey.com">EY GDS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>working as Associate Analyst at <a href="https://www.ey.com">EY GDS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
 <a href="https://instagram.com/ajmalbinnizam"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26"> </a>
