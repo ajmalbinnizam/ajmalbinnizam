@@ -1,8 +1,8 @@
 <h2>Hi👋, I'm Ajmal Bin Nizam! <img src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="50"></h2>
 
 <a href=#><img src="contributions.svg"></a>
-<p>Working as a Full stack Data engineer in <a href="https://www.ey.com">EY GDS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
+<h2>Working as a Full stack Data engineer in <a href="https://www.ey.com">EY GDS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</h2>
 
 ## Connect me on:
 
