@@ -25,7 +25,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://instagram.com/ajmalbinnizam"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="40"> </a>
-<a href="https://www.linkedin.com/in/ajmalbinnizam/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" style="margin-left: 10;"> </a>
+<a href="https://www.linkedin.com/in/ajmalbinnizam/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" style="margin-left: 10px;"> </a>
 <a href="https://ajmalbinnizam.github.io"><img src="https://img.icons8.com/fluent/96/000000/domain.png" width="45" alt="ajmal bin nizam" style="padding-top:;"></a>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
