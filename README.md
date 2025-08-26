@@ -3,7 +3,7 @@
 <img src="contributions.svg">
 <!-- https://github.dev/iurygoulart23/iurygoulart23 -->
 
-<h2 style="margin:10;">Working as a Full stack Data engineer in <a href="https://www.ey.com">EY GDS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2 style="margin:10;">Working as a Full stack Data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h>
 
 <h3 style="margin-top:20px;">🔥Current Technologies: </b></h3>
