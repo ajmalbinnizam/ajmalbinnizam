@@ -6,7 +6,7 @@
 <h2 style="margin:10;">Working as a Full stack Data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h>
 
-<h3 style="margin-top:20px;">🔥Current Technologies: </b></h3>
+<h3 style="margin-top:20px;">🔥 Current Technologies: </b></h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 <a href="https:https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="50" height="50"/> </a> 
